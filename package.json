@@ -1,0 +1,8 @@
+{
+  "name": "docker-compose-example",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^4.0.0"
+  }
+}
